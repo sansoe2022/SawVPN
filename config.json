@@ -5,129 +5,34 @@
 
 
 {
-         "name": "IND-NEW-FREE-01",
-         "url": "FOho7GgqAkgQesGeFUl3Oc0IMnfiAHmO114k8mVZgLwD3bL+sbm62ygyn4E="
-      },
-
-{
-         "name": "SG-NEW-FREE-01",
-         "url": "4RYs3AUYr4qGdO2lPfVnWnk15VligRVdoHks+gxUqOVSKuwQORFXb8b6CkHsxWho0OGZ5OoI4VgQXPTpbHSMvQUbJdDBFJb3R0SVWg=="
-      },
-
-{
-         "name": "SG-NEW-FREE-02",
-         "url": "hxCJMkgzksj6ajJVQ2QXvG6FCFYSO3+IAiKpBQnjCw6cABTmrAkH5izI4ZUBmikS5TLIaJI2Zamc9QnDGFX7t2jarr60BT/c0goGew=="
-      },
-
-{
-         "name": "SG-NEW-FREE-03",
-         "url": "FiEA9pEoSNFX70/6XIKltMl705cN49hb5CIpNjWevy/pmxBJBG3WAcTsmAfnSfOk5GkxJb0eKXXwbLWl5m2wrbNJnWQB9n2lR03GQw=="
-      },
-
-{
-         "name": "SG-NEW-FREE-04",
-         "url": "fHvPHCydGTzQBP3QITta98VAjzE01u0qPRYi3df1M1JTA+m774PYOCZgn5tlO/ogWd0SUDVfbxZPLR8h0L5rTqGTAsFVR4tAjTziWA=="
-      },
-
-{
-         "name": "SG-NEW-FREE-05",
-         "url": "sv8z0OkXkPvaia5UG/XGuxcGcuCBsK9zrEFHzGUEep4uiNpvhrPoB9CVT44lP0m2dLrQqBnoFjAIAMZX2vCVxwGaP1S0L4joRX3xLw=="
-      },
-
-{
-         "name": "SG-NEW-FREE-06",
-         "url": "7KeTNFkF1PT5im52k8Wd3zoZBwAslFJlc/lRQJxRtMaDFQC6k6j37/QN85s0j5iegDYv/wmzxLfGR+ojEWFtcSJrtxXhzNkfeE9xQg=="
-      },
-
-{
-         "name": "SG-NEW-FREE-07",
-         "url": "FkDzya0rFGnpeqL9Hkl1WRxHplfhvZNTwxwMte7kUvL3zCouMPJXlTz6/myLjowwh51UhIblSTQZYgfoN7Zx0sPNLl6eNUlZNYI5fA=="
-      },
-
-{
-         "name": "TH-NEW-FREE-01",
-         "url": "FvftjpE2HQvH78slRN0kdlCG+M512/rkn0JCUXlUdKkS5Jszl2m/vuaVCjURhr9q0EW/D2mw1QUhkhAVqBEQZ5OxbtkjbbhdeQ9H2w=="
-      },
-
-{
-         "name": "US-NEW-FREE-01",
-         "url": "venxSQuyRxop4d6+Xz3KKqu0JMJnKC68W7ZdzipBHHlECweP71qQ3V7bkI1duUyUcub8AE8dFoIPhNj8Rq5afYa615C2pitRx26Z+A=="
-      },
-
-{
          "name": "TH-Game-FREE-01",
          "url": "82CQdrrqmJizvKASw2HptfqepJ20vmBfkFEtTmME4p6Z3d+qg/YiBAaSLPj/XtF9twp13esJ2R4="
+      },
+
+{
+         "name": "TH-Game-FREE-02",
+         "url": "5UxVCEjiaTrRbzd56POn3sxfK1ZQUQnV1kjqiduTb3LI/6hWNChBddgVEJRJINHf"
+      },
+
+{
+         "name": "TH-Game-FREE-03",
+         "url": "x+mcI2ZlRA/WefyblsSLHtXHEmLn08cDdN6ALP2MWlZ2nrEPJMrNE6VhWp10jzfD"
       },
 
 
 {
          "name": "SG-Unlimited-FREE-01",
-         "url": "lyeRRMXJT88zUKEx2J+lmtnXuLH+CpqvEJnYCsoao7xOZea1LgjSTDp2iTWXuO1QaM3qAP6fjfc="
+         "url": "82CQdrrqmJizvKASw2HptfqepJ20vmBfkFEtTmME4p6Z3d+qg/YiBAaSLPj/XtF9twp13esJ2R4="
       },
 
 {
          "name": "SG-Unlimited-FREE-02",
-         "url": "sk1estJcSNAaKSd/NGRgNvBlJvkCAYnGtuOqrqfpiSNW5xE8e7ocLdNTV9yyABwu1Awme9kS3i0="
+         "url": "5UxVCEjiaTrRbzd56POn3sxfK1ZQUQnV1kjqiduTb3LI/6hWNChBddgVEJRJINHf"
       },
 
 {
          "name": "SG-Unlimited-FREE-03",
-         "url": "m8RU9OWbt5pqlVXHqNhEecJq1xP+9c9armCex7gIgzdEiY1BUnQqp8b5RXUBXRWkpBsCY6G8sgM="
-      },
-
-{
-         "name": "SG-Unlimited-FREE-04",
-         "url": "3ILBZkyoBj8aZ4etHsBNgPSi8HWXmA6xXkmhyPwTGJDuK+AUFmSqkwpKnxjBQZTg/4VuLYMxULs="
-      },
-
-{
-         "name": "SG-Unlimited-FREE-05",
-         "url": "nInV4STuR4+6c64ovzCrn7NNi/dbLhmxpsVPNHywXcPmrs9uFL1GuJl6yWmfc5dnSGw2k/iikMY="
-      },
-
-{
-         "name": "SG-Unlimited-FREE-06",
-         "url": "FOho7GgqAkgQesGeFUl3Oc0IMnfiAHmO114k8mVZgLwD3bL+sbm62ygyn4E="
-      },
-
-{
-         "name": "SG-Unlimited-FREE-07",
-         "url": "y/r9FTwUxpU7LxM6qR+xkl1MMx2CBybOoMkD7BduZp0X0vNrE5VzfG5NPq0="
-      },
-
-
-
-{
-         "name": "US-Unlimited-FREE-01",
-         "url": "ovAget6i26g0foRsgIj4qQWep79Q4luYvi3hlLroDwxjM/F+qwBDVxpdaojU/QK+OmWii15G8Ro="
-      },
-
-{
-         "name": "US-Unlimited-FREE-02",
-         "url": "iePVaT8UhU9IJSxFkjVBed/yd4fY5AczFmvuG5nwWdEtOpvJ63whNBwS+m2WfJunR8qmroZXfXE="
-      },
-
-{
-   "name": "US-Unlimited-FREE-03",
-         "url": "kwCyC2KD0Qvx4Ha6xo7027zYY4n0ydcUugyQuXf0tBqgOYBIEJifD3HrHARVeoI6UwZ0LpmYphI="
-      },
-
-{
-         "name": "US-Unlimited-FREE-04",
-         "url": "PiAiASPAKKZt7hyT6FC/Zy808aScsFYYhjZnDw7vRFGJH5ctjdVIkZEyRKPrSPXHc88PZclFWzo="
-      },
-{
-   "name": "US-Unlimited-FREE-05",
-         "url": "40tWGcjr9JGbZq0QYCdf0a5Rgy6q62x33aJR9eB/WB6f6PVIm0wBAAhnHnuFHWYs8HB4x5RuwRs="
-      },
-
-{
-         "name": "US-Unlimited-FREE-06",
-         "url": "1Xe3lADHJ6SwsX2T1/AYMKGNqdzRM+BBvdykCgHxFg32ULhB8P8QU6CbzHU="
-      },
-{
-   "name": "US-Unlimited-FREE-07",
-         "url": "eNxLgCafE6ZYE7Ztr0xDU9J/sw048F61FWAaKWCGLv5Pz1xw68jysTKdxF0="
+         "url": "x+mcI2ZlRA/WefyblsSLHtXHEmLn08cDdN6ALP2MWlZ2nrEPJMrNE6VhWp10jzfD"
       },
 
 {
@@ -183,7 +88,7 @@
 
 
    ],
-"message":"🚀 Config version - 6 \n⏰ Latest update - 11/05/2023 12:02AM\n \n📌What's new 🔥 \n• Added more server \n \n• Added Unlimited server for FREE \n \n• High speed ⚡\n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes✅ \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
+"message":"🚀 Config version - 7 \n⏰ Latest update - 14/05/2023 10:13AM\n \n📌What's new 🔥 \n• Added 🇹🇭 TH Game Server 3 for FREE ✅ \n \n• Added Unlimited server for FREE \n \n• High speed ⚡\n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes✅ \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 6
+   "version": 7
 }
