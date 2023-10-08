@@ -179,6 +179,11 @@
 
    "title":"Do you want to update?",
 
-   "version": 14
+   "version": 14,
+
+   "titleNoti": "This is title text",
+   "messageNoti": "This is message text",
+   "imageNoti": "http://3.bp.blogspot.com/_cY1l96f0e6c/TMVlWmo0T-I/AAAAAAAAAOk/a_Yp3yIR11k/s1600/214.jpg",
+   "openNoti": true
 
 }
