@@ -180,10 +180,10 @@
    "title":"Do you want to update?",
 
    "version": 14,
-
+//Notification api
    "titleNoti": "This is title text",
    "messageNoti": "Myanmar, also called Burma, \n \n \n \n \n \ncountry, located in the western portion of mainland Southeast Asia. \n \n \n \n \n \nIn 1989 the country’s official English name, \n \n \n \n \n \nwhich it had held since 1885, was changed from the Union of Burma to the Union of Myanmar; in the Burmese language the country has been known as Myanma (or, more precisely, Mranma Prañ) since the 13th century. \n \n \n \n \n \nThe English name of the city that served as the country’s capital from 1948 to 2006, \n \n \n \n \n \nRangoon, also was dropped in 1989 in favour of the common Burmese name, \n \n \n \n \n \nYangon.",
    "imageNoti": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/20230924_190724.jpg",
-   "openNoti": false
+   "openNoti": true
 
 }
