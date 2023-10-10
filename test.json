@@ -1,30 +1,24 @@
 {
 
-   "files": [
+   "server": [
 
 {
 
-         "name": "TH-FREE-01",
+         "name": "MM-Yatha-FREE-1",
 
-         "url": "https://raw.githubusercontent.com/sansoe2022/SawVPN/main/test1.ovpn"
+         "url": "http://104.248.149.180:82/server/online_app.json"
 
       },
 
 {
 
-         "name": "TH-FREE-02",
+         "name": "MM-Yatha-FREE-2",
 
-         "url": "https://raw.githubusercontent.com/sansoe2022/SawVPN/main/test1.ovpn"
+         "url": "http://104.248.149.180:82/server/online_app.json"
 
       }
 
 
-   ],
-
-"message":"🚀 Config version - 14 \n⏰ Latest update - 24/07/2023 03:10AM\n \n📌What's new 🔥 \n• Added 🇹🇭 TH Game Server 4 for FREE ✅ \n \n• Added Lifetime server 6 for FREE \n \n• High speed ⚡\n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes✅ \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
-
-   "title":"Do you want to update?",
-
-   "version": 14
+   ]
 
 }
