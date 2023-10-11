@@ -1,29 +1,5 @@
 [ 
-  {
-         "name": "MM-Yatha-FREE-1",
-
-         "url": "http://104.248.149.180:82/server/online_app.json"
-
-      },
-  {
-
-         "name": "MM-Yatha-FREE-1",
-
-         "url": "http://104.248.149.180:82/server/online_app.json"
-
-      },
-  {
-
-         "name": "MM-Yatha-FREE-1",
-
-         "url": "http://104.248.149.180:82/server/online_app.json"
-
-      },
-  {
-
-         "name": "MM-Yatha-FREE-1",
-
-         "url": "http://104.248.149.180:82/server/online_app.json"
-
-      }
+  MM-Yatha-FREE-1,
+  MM-Yatha-FREE-2,
+  MM-Yatha-FREE-3
 ]
