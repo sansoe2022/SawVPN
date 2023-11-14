@@ -4,19 +4,26 @@
 
 {
 
-         "name": "MM-Yatha-FREE-1",
+         "name": "SG-VIP-1",
 
-         "url": "http://104.248.149.180:82/server/online_app.json"
+         "url": "http://sg-vip1.sansoe.xyz:81/server/online_app.json"
 
       },
 
 {
 
-         "name": "MM-Yatha-FREE-2",
+         "name": "SG-VIP-2",
 
-         "url": "http://68.183.234.71:81/server/online_app.json"
+         "url": "http://sg-vip2.sansoe.xyz:81/server/online_app.json"
 
-      }
+      },
+      {
+
+         "name": "SG-VIP-3",
+
+         "url": "http://sg-vip3.sansoe.xyz:82/server/online_app.json"
+
+      },
 
 
    ]
