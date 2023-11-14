@@ -4,24 +4,24 @@
 
 {
 
-         "name": "SG-VIP-1",
+         "name": "TH-FREE-1",
 
-         "url": "http://sg-vip1.sansoe.xyz:81/server/online_app.json"
+         "url": "http://116.204.182.39:81/server/online_app.json"
 
       },
 
 {
 
-         "name": "SG-VIP-2",
+         "name": "SG-FREE-3",
 
-         "url": "http://sg-vip2.sansoe.xyz:81/server/online_app.json"
+         "url": "http://154.26.139.143:81/server/online_app.json"
 
       },
       {
 
-         "name": "SG-VIP-3",
+         "name": "TH-FREE-4",
 
-         "url": "http://sg-vip3.sansoe.xyz:82/server/online_app.json"
+         "url": "http://45.91.134.203:81/server/online_app.json"
 
       },
 
