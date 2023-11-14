@@ -17,13 +17,14 @@
          "url": "http://154.26.139.143:81/server/online_app.json"
 
       },
-      {
+      
+{
 
          "name": "TH-FREE-4",
 
          "url": "http://45.91.134.203:81/server/online_app.json"
 
-      },
+      }
 
 
    ]
