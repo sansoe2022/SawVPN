@@ -24,7 +24,47 @@
 
          "url": "http://45.91.134.203:81/server/online_app.json"
 
+      },
+
+      {
+
+         "name": "SG-Test-1",
+
+         "url": "http://45.91.1434.203:81/server/online_app.json"
+
+      },
+{
+
+         "name": "SG-VIP-1",
+
+         "url": "http://128.199.207.143:81/server/online_app.json"
+
+      },
+            },
+{
+
+         "name": "SG-VIP-2",
+
+         "url": "http://178.128.214.243:81/server/online_app.json"
+
+      },
+            },
+{
+
+         "name": "SG-VIP-3",
+
+         "url": "http://159.223.45.89:82/server/online_app.json"
+
+      },
+            },
+{
+
+         "name": "SG-Test-1",
+
+         "url": "http://45.91.1434.203:81/server/online_app.json"
+
       }
+
 
 
    ]
