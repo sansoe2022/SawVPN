@@ -2,19 +2,19 @@
 "Banner": "ca-app-pub-3940256099942544/6300978111",
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "ca-app-pub-3940256099942544/1033173712",
-"version": 18,
+"version": 1,
 "message": "What's new \nUpdated new server FREE",
 
 "files": [
 
 {
          //server-free1
-         "config": "x7nFpSVYcWzHWu5GcAI8EVWeLzWoq9oWsSmlOo2CcRRr9KtnI+Wf5xzqKbqckcWhRy/JLOiXghCJUKUmZemDOY98FO2JON8JB3ULRGf//Rx+DPsccKiTcLKE8pCD+8PGU6zkAvyGPz9LFEI+gmJQ1R+XmOv89GEOFjOktsmMjRwtQU2qhG5F0ubpxXbhvzgCWLuYrLsM3cXbGbQ3ju11D0AO4OILiXC8y7hlAo3DxHZrUIlzSnIkVBk1SwBx17XG"
+         "config": "bWLaVzYvKbY8ceahKdlUiVhfgcllhz/80LbZqGr0iMZDT84JCOufI1APnmBUz2U56xGNx1zzqgIY2anqTMpLhuhh5o6RKx8bdYtQ84FBdNoo5vSmq5ir6bN04eeHY0m9xmU5WKYdr0aekajDQrTaocUxkE0OUBsOQ3Y5Kxk1lIti9oh3jMaLijqy8h9Cwjpo8v9PPJ4hWsLgufP9siAwilycDheAQzOZVSaMq0t5Ant6M70dZosGMjp5mOHlzB2M"
      
 },
 {
         //server-free2
-         "config": "m2g4lwhzLSUg6y1fdAsXhjcAd7Bki74KSPzuFrKuDYp1k3llFVosNd4yoJh1Ui06P4ysXpF1OD7+t7u+1wt8Cug9zvT+eSyBKHWTjx4BcZGHhHLtafbFvmOmXaex9rGuIfa0HptvoBjn+T6uZ0vq1xtsLhqkvMtpxaosVvNmCWXGXHjELloQXpFuz40aqwHYHpW7G32DzmhmwgB20g4AnpDisFi9MfDuBOr/Dg=="
+         "config": "inBOL6t784Q8hI0Qw+3twAVGQiAS1PgWqlUxGnyGNdPiXYBzCaEDmJIFT5eq/biZ8yZACa8WH9gIsX4LF+nGC/4BFVK39rqfKJZPSWFppXoKMUnlUcBQQYqxsjEwXVqm3FeDxQLrFyLc05sUOk7ibEajf5OUeHwLUOAzkzAvqkUr3E5sNhiQAkxw3ZkAyoOcTYrpJVfku1/Djvh2Rte3mjq1Khu6tLNJwno9Ew=="
       }
 
    ],
