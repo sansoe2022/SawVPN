@@ -1,0 +1,41 @@
+{
+
+"version": 1,
+"message": "What's new \nAdded new server",
+
+"files": [
+
+{
+         //server-true-vip-1
+         "config": "vemFCTzDfp4DCU1T7VGeUwjuWL1jdZeOn3/07qac9ZLbtkvHgvJvTvmLNiytrPK7Jfpd3MBml4Fa9cPo8bY/iBHjSqJvaCT6GQE0CqVntYfxr1vUfW8FokSStsymWC0hJucaTmVlgAjOZItOhN/vhOaC/mVrzovkykIyj26GoR7ei6OwAWdYI7l2gcKVVYrgOyESn8vViQKshH+36aWubUQyiW7APbdV64zR5A=="
+     
+},
+{
+        //server-true-free-1
+         "config": "9K4VKw4YX2ZWBFDjZUKTFYbnQ1h910ScstS1ZK9p5XHvNF6peC3krbetHmTTu6wo3gPi0lnB7UF8pO4/W7RDsZXz+c9dsdygm5c8m9XFmZ3h4PumP7Rom5EkquzMpFiIzPPa+FzF351GqkskHRpTgeMroeAb8d8cog0Bs+9N9UU7248nElwDY480AjplKVhzteMLjhn8fPFgGAJAqQdEfYdvwUCZIUr1GbwX/UnG0ro="
+      },
+
+{
+        //server-dtac-vip-1
+         "config": "CY1QJq0EYyu8E3w+0yo4nrX+dnthjIYwIzEbQIPcdW2jS4fF89xcQr+SU/VUroiSBXr+QK1B27fgyYkesvsioDOlPCT6l2/jSxT6ZH5K9O1a9MXEp9O4LlY2/dV0bjFEgPZ1zWNMr/ljDVFmW60xjTaMzmNSGhXjCzIFbs8SyW+NB48//jguqePa0wNoYGdy2O9KPcH/wnsXEvurS8G+9Yq1v0bZOfMtatDcAA=="
+      },
+      
+      {
+        //server-dtac-free-1
+         "config": "ntqTmAFjf9WW23zVVKlB/DRza+7SRt8tEVT6HLqI/Ia+FJWbZ0Jmp8SuZMNw1jLGil/Q3MMSq+X/oxConXb/3vGLnYscB48sPklLkoYog80Eqfz273Q6yx4ZdK8MOQmH7oJE9RqThfZOERpQNbA7W8LH/O3dPgrbT/hIFeWL0P8iy/PO/wmixt8BSaThbNWU5zz9YmI2C+HtX+BODpRzy5Oy70cC7rD/rPmq2N7Htvw="
+      }
+      
+
+   ],
+
+
+
+"dtac": "If you use a Dtac SIM, you don't need to buy pro",
+
+"true": "If you use a True SIM, you don't need to buy pro",
+
+"ais": "If you use Ais SIM, you need to buy both packages below\n*777*7067# 31฿\n*777*885# 59฿ \n \nAfter both are buy\n • Select the AisPlay file and use it to connect"
+
+
+
+}
