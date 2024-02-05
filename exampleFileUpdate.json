@@ -1,6 +1,8 @@
 {
-
-"version": 1,
+"Banner": "ca-app-pub-3940256099942544/6300978111",
+"Reward": "ca-app-pub-3940256099942544/5224354917",
+"Inter": "add inter unit here",
+"version": 2,
 "message": "What's new \nAdded new server",
 
 "files": [
